@@ -1,0 +1,11 @@
+.Slider-nav-top{
+    position: fixed;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0 !important;
+}
+.Slider-main-list{
+    margin-top: 56px !important;
+}
